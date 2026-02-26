@@ -1,0 +1,6 @@
+../Core/Src/Stepper.c:22:13:Stepper_Write	1
+../Core/Src/Stepper.c:32:6:Stepper_Init	1
+../Core/Src/Stepper.c:60:6:Stepper_Step	2
+../Core/Src/Stepper.c:77:6:Stepper_RotateSteps	3
+../Core/Src/Stepper.c:86:6:Stepper_RotateAngle	1
+../Core/Src/Stepper.c:92:6:Stepper_Stop	1
